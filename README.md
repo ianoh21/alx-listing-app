@@ -13,5 +13,11 @@ This project is an Airbnb clone listing page built with Next.js, TypeScript, and
 
 1. Install dependencies:
 
-```bash
-npm install
+"npm install"
+
+2. Run the development server:
+
+"npm run dev"
+
+3. Open http://localhost:3000
+ to view the project in the browser.
